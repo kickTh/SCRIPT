@@ -9,6 +9,3 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/SomeHub/main/New.txt", true))()
 end
 
-else
-	game.Players.LocalPlayer:kick("Error Script ")
-end
