@@ -6,14 +6,6 @@ end
 
 
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then -- Blox fruit
-local Fire = Instance.new("Fire")
-    Fire.Parent = game.Players.LocalPlayer.Character.LeftHand
-    Fire.Heat = 5
-    Fire.Size = 4
-    local Fire = Instance.new("Fire")
-    Fire.Parent = game.Players.LocalPlayer.Character.RightHand
-    Fire.Heat = 5
-    Fire.Size = 4
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/SomeHub/main/New.txt", true))()
 end
 
